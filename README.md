@@ -21,5 +21,6 @@ This was for the June 2021 [Crowd Funding challenge](https://www.mavenanalytics.
 ## DataZoe Unicorn Companies
 
 See the report on the web [here](https://app.powerbi.com/view?r=eyJrIjoiMGNlNjA2NjktNTIyYy00MDllLWI0NDItNGRkNDAxODkyYjU0IiwidCI6IjkyOWVlMzI0LTk3YzQtNDk1YS04MjM5LTZhZDg3NDk0MGVlYyIsImMiOjN9).
+Download the PBIX [here](https://github.com/DataZoe/PBIX-Challenges/blob/main/DataZoe%20Unicorn%20Companies.pbix).
 
 This was for the April/May 2022 [Unicorn challenge](https://www.mavenanalytics.io/blog/maven-unicorn-challenge) using the [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground) data for Unicorn Companies. I did not enter this one, and did the report just for fun!

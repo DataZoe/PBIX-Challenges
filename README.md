@@ -24,3 +24,7 @@ See the report on the web [here](https://app.powerbi.com/view?r=eyJrIjoiMGNlNjA2
 Download the PBIX [here](https://github.com/DataZoe/PBIX-Challenges/raw/main/DataZoe%20Unicorn%20Companies.pbix).
 
 This was for the April/May 2022 [Unicorn challenge](https://www.mavenanalytics.io/blog/maven-unicorn-challenge) using the [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground) data for Unicorn Companies. I did not enter this one, and did the report just for fun!
+
+## DataZoe Adventure Works
+
+This was orginally created for an internal challenge at Blueprint Technologies utilizing Conduit. You can see the demo video I did [here](link). This one has been modified to use the Adventure Works DW 2019 available online at [https://learn.microsoft.com/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms](https://learn.microsoft.com/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
